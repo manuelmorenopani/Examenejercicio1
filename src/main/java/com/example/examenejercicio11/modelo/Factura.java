@@ -1,4 +1,4 @@
-package com.example.examenejercicio1.modelo;
+package com.example.examenejercicio11.modelo;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -36,8 +36,6 @@ public class Factura {
     public Factura() {
 
     }
-
-
 
     public String pagar (Producto c) {
         return t.pagar(c);

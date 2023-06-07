@@ -1,4 +1,4 @@
-package com.example.examenejercicio1.modelo;
+package com.example.examenejercicio11.modelo;
 
 public interface IImpuesto {
 
